@@ -1,0 +1,113 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+html, main, #app{
+    height: 100%;
+    width: 100%
+}
+
+body{
+    width: 100%;
+    height:100%; 
+    background: lightgray;  
+    margin: 0;  
+}
+
+
+main, nav, footer{
+    transition: width .1s linear;
+}
+
+main{
+    background: #fff;
+    width: calc(100% - 227px);
+    height: calc(100% - 49px - 32px);
+    float: left;
+}
+
+.main-lg{
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+/* Menu apenas icones */
+.minified nav{
+    width:45px;
+}
+
+.minified main{
+    width: calc(100% - 45px);
+}
+
+.minified .arrow-mini-menu:hover{
+    padding-left: 10px;
+}
+
+.arrow-mini-menu:hover{
+    padding-right: 5px;
+}
+
+.minified .arrow-mini-menu{
+    border-radius:0;
+    margin:0;
+    height:34px;
+    font-size:23px;    
+    width: 100%
+}
+
+
+.menu-item-parent{
+       animation: view 5s;
+}
+
+
+.minified .menu-item-parent{    
+    display: none;
+}
+
+@keyframes view {
+    from { display: none;}
+    to{display: inline-block;}
+
+}
+
+
+.pull-right {
+    float: right;
+    margin-right: 10px
+}
+
+.inline{
+    display: inline-block;
+}
+
+.color-2{
+    background: #028DB2 !important;
+    border-color:  #028DB2 !important;
+}
+
+.input.is-danger, .textarea.is-danger {
+    border-color: #ff3860;
+}
+
+span.fieldName{
+    margin-top: 10px;
+    display: block; 
+}
+
+.help.is-danger {
+    color: #ff3860;
+}
+
+.help {
+    display: block;
+    font-size: .75rem;
+    margin-top: .25rem;
+}
+
+.text-success-app {
+    color: #1c8434;
+  }

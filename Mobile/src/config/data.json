@@ -1,0 +1,618 @@
+{
+    "perguntas":[
+       {
+          "perguntaId":6,
+          "descricao":"A empresa adere a legislação ambiental e regulamentações que facilitam a proteção ao meio ambiente?",
+          "fotoObrigatoria":true,
+          "categoria": "Meio Ambiente",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":5,
+          "descricao":"A empresa ou qualquer um de seus sites possui certificações como ISO 14.001 ou selo FCS?",
+          "fotoObrigatoria":true,
+          "categoria": "Meio Ambiente",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":1,
+          "descricao":"A separação do lixo é realizada diariamente?",
+          "fotoObrigatoria":true,
+          "categoria": "Tratamento de Resíduos",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":2,
+          "descricao":"A separação do lixo é realizados em todos os setores?",
+          "fotoObrigatoria":false,
+          "categoria": "Tratamento de Resíduos",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não, em nenhum",
+                   "checked":false
+                },
+                {
+                   "id":1,
+                   "nome":"Não, apenas em alguns",
+                   "checked":false
+                },
+                {
+                   "id":2,
+                   "nome":"Em quase todos",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim, em todos",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":3,
+          "descricao":"A empresa monitora se seus fornecedores possuem certificações como SA8000, ISO 9001, FLO, ABNT NBR 16001?",
+          "fotoObrigatoria":true,
+          "categoria": "Fornecedor",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":[
+                1
+             ],
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":4,
+          "descricao":"A empresa monitora se seus fornecedores possuem diretrizes da ISO 26.000?",
+          "fotoObrigatoria":true,
+          "categoria": "Fornecedor",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":7,
+          "descricao":"Descreva de forma clara e sucinta como funciona seu processo de reciclagem.",
+          "fotoObrigatoria":false,
+          "categoria": "Tratamento de Resíduos",
+          "fotos":[
+ 
+          ],
+          "tipo":"descritiva",
+          "resposta":{
+             "valor":null,
+             "escolhasDisponiveis":null,
+             "escolhasSelecionadas":null,
+             "descricao":""
+          }
+       },
+       {
+          "perguntaId":8,
+          "descricao":"A empresa é favorável à livre associação sindical?",
+          "fotoObrigatoria":false,
+          "categoria": "Social",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":9,
+          "descricao":"A empresa possui políticas e práticas que visam a melhoria da saúde e segurança no trabalho de seus colaboradores?",
+          "fotoObrigatoria":false,
+          "categoria": "Social",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+       {
+          "perguntaId":10,
+          "descricao":"É recomendado o desenvolvimento de pessoas com deficiência e aprendizes?",
+          "fotoObrigatoria":false,
+          "categoria": "Social",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":11,
+          "descricao":"Treinamento: Catálogo de treinamento conhecido?",
+          "fotoObrigatoria":false,
+          "categoria": "Treinamento",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":12,
+          "descricao":"Uso de EPI: As normas são conhecidas?",
+          "fotoObrigatoria":false,
+          "categoria": "Uso de EPI",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":13,
+          "descricao":"Plano de Emergência: Catálogo das normas técnicas conhecido?",
+          "fotoObrigatoria":false,
+          "categoria": "Plano de Emergência",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":14,
+          "descricao":"Acidentes por ano: Realiza análise estatística de eventos?",
+          "fotoObrigatoria":false,
+          "categoria": "Acidentes por ano",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":15,
+          "descricao":"Saúde do trabalhador: As normas são conhecidas. (NR7)?",
+          "fotoObrigatoria":false,
+          "categoria": "Saúde do trabalhador",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":16,
+          "descricao":"Medidas para prevenção de acidentes: Os riscos estão mapeados?",
+          "fotoObrigatoria":false,
+          "categoria": "Medidas para prevenção de acidentes",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":17,
+          "descricao":"Combate a incêndio: O catálogo de treinamentos conhecido?",
+          "fotoObrigatoria":false,
+          "categoria": "Combate a incêndio",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":18,
+          "descricao":"Conforto dos funcionários: As normas para conforto dos funcionários são conhecidas?",
+          "fotoObrigatoria":false,
+          "categoria": "Conforto dos funcionários",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":19,
+          "descricao":"Conforto dos funcionários: Existem estruturas e equipamentos adequados?",
+          "fotoObrigatoria":false,
+          "categoria": "Conforto dos funcionários",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       },
+	   {
+          "perguntaId":20,
+          "descricao":"Conforto dos funcionários: Consideram os funcionários e a empresa com um todo?",
+          "fotoObrigatoria":false,
+          "categoria": "Conforto dos funcionários",
+          "fotos":[
+ 
+          ],
+          "tipo":"emoji",
+          "resposta":{
+             "valor":0,
+             "escolhasDisponiveis":[
+                {
+                   "id":0,
+                   "nome":"Não",
+                   "checked":false
+                },
+                {
+                   "id":3,
+                   "nome":"Sim",
+                   "checked":false
+                }
+             ],
+             "escolhasSelecionadas":null,
+             "descricao":null
+          }
+       }
+	   	   
+    ],
+    "checklists":[
+       {
+          "checklistId":1,
+          "nome":"Dimensão Ambiental",
+          "qtdePerguntas":2,
+          "qtdePerguntasRespondidas":0,
+          "perguntas":[
+             5,
+             6
+          ],
+          "indicePerguntaAtual":0,
+          "concluido":false
+       },
+       {
+          "checklistId":2,
+          "nome":"Monitor. Fornecedor",
+          "qtdePerguntas":2,
+          "qtdePerguntasRespondidas":0,
+          "perguntas":[
+             3,
+             4
+          ],
+          "indicePerguntaAtual":0,
+          "concluido":false
+       },
+       {
+          "checklistId":3,
+          "nome":"Dimensão Social",
+          "qtdePerguntas":3,
+          "qtdePerguntasRespondidas":0,
+          "perguntas":[
+             8,
+             9,
+             10
+          ],
+          "indicePerguntaAtual":0,
+          "concluido":false
+       },
+       {
+          "checklistId":4,
+          "nome":"Tratamento de Lixo",
+          "qtdePerguntas":3,
+          "qtdePerguntasRespondidas":0,
+          "perguntas":[
+             1,
+             2,
+             7
+          ],
+          "indicePerguntaAtual":0,
+          "concluido":false
+       },
+	   {
+          "checklistId":5,
+          "nome":"Segurança",
+          "qtdePerguntas":10,
+          "qtdePerguntasRespondidas":0,
+          "perguntas":[
+             11,
+             12,
+             13,
+			 14,
+			 15,
+			 16,
+			 17,
+			 18,
+			 19,
+			 20
+          ],
+          "indicePerguntaAtual":0,
+          "concluido":false
+       }
+    ]
+}
